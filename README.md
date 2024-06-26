@@ -41,23 +41,23 @@ TrafficSim is a JavaFX-based traffic simulation project. The application simulat
 ## Project Structure
 
 TrafficSim/
-`├── src/
-` ├── main/
-`` ├── java/
-``` └── project3/
-``` └── project3/
-``` ├── Car.java
-``` ├── CarDisplay.java
-``` ├── CarManager.java
-``` ├── Main.java
-``` ├── TrafficLight.java
-``` ├── TrafficLightDisplay.java
-``` └── TrafficLightManager.java
-` ├── test/
-`` ├── java/
-``` └── project3/
-``` └── project3/
-``` └── CarManagerTest.java
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── project3/
+│ │ │ └── project3/
+│ │ │ ├── Car.java
+│ │ │ ├── CarDisplay.java
+│ │ │ ├── CarManager.java
+│ │ │ ├── Main.java
+│ │ │ ├── TrafficLight.java
+│ │ │ ├── TrafficLightDisplay.java
+│ │ │ └── TrafficLightManager.java
+│ ├── test/
+│ │ ├── java/
+│ │ │ └── project3/
+│ │ │ └── project3/
+│ │ │ └── CarManagerTest.java
 ├── .gitignore
 ├── pom.xml
 └── README.md
