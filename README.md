@@ -41,7 +41,7 @@ TrafficSim is a JavaFX-based traffic simulation project. The application simulat
 ## Project Structure
 
 TrafficSim/
-├── src/
+`├── src/
 ` ├── main/
 `` ├── java/
 ``` └── project3/
