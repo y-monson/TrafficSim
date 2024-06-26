@@ -39,7 +39,7 @@ TrafficSim is a JavaFX-based traffic simulation project. The application simulat
 - **Add Car**: Adds a new car to the simulation.
 
 ## Project Structure
-
+```
 TrafficSim/
 ├── src/
 │ ├── main/
@@ -61,3 +61,4 @@ TrafficSim/
 ├── .gitignore
 ├── pom.xml
 └── README.md
+```
